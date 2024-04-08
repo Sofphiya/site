@@ -1,0 +1,188 @@
+*{
+	margin: 0;
+}
+
+body {
+	font-family: 'Roboto';
+}
+
+.header {
+position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.container {
+	max-width: 1112px;
+	margin: 0 auto;
+}
+
+.logo {
+	font-family: 'Revalia';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 48px;
+	line-height: 60px;
+	color: #FFFFFF;
+}
+
+
+.container_header {
+	display: flex;
+	justify-content: space-between;
+	padding: 57px 0;
+}
+
+
+.header__list {
+	display: flex;
+	list-style: none;
+}
+
+.header__item {
+	margin-right: 42px;
+}
+
+.header__link {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.hero-block {
+background: #000000;
+
+}
+
+.container_hero-block {
+display: flex;
+	}
+
+.hero-block_img {
+height: 447px;
+width: 335px;
+}
+
+.container_hero-block {
+display: flex;
+padding: 83px 0 146px 85px;
+}
+
+.hero-block_title { 
+height: : 45px;
+width: 541px;
+left: 974px;
+top: 250px;
+border-radius: nullpx;
+margin-bottom: 60px; 
+color: #FFFFFF;
+
+}
+
+.header { 
+background-color: #000000;
+}
+
+.container_about { 
+	padding: 50px 0 165px;
+	float: margin;
+ } 
+
+.about {
+	background: #FFFFFF ;
+} 
+
+.about_img {
+width: 306px;
+height: 354px;
+} 
+
+.about_item {
+	color:  #A61554 ;
+	list-style-type: none;
+	margin-bottom:  55px;  
+	position: relative;
+
+}
+
+.about_content {
+display : flex ;
+
+
+} 
+
+.about_container-list {
+padding: 135px 0 ;
+min-width: 45% ;
+margin-right: 275px;
+
+}
+
+.about_list {
+	padding-left: 0;
+}
+
+.gallery_str {
+display: flex;
+}
+
+.footer {
+	background: #FFFFFF;
+}
+
+.container_footer {
+	padding: 35px 0px;
+	display: flex;
+
+}
+
+.footer_title {
+	color: #000000;
+}
+
+.footer_text {
+	font-weight: 400;
+	font-size: 13px;
+	color: #000000;
+}
+
+.footer_info {
+	margin-right: 523px;
+}
+
+.footer_link {
+	margin: auto 0;
+}
+
+.up {
+	position: fixed;
+	right: 50px;
+	bottom: 50px;
+}
+
+
+.form {
+	background: #000000;
+}
+
+.gallery {
+	background: #000000;
+}
+
+.gmail {
+	background: #FFFFFF;
+}
+
+.container_form {
+	padding: 50px 0;
+}
+
+.form_form {
+	display: flex;
+	flex-direction: column;
+}
+
+.lightzoom {
+	height: 500px;
+	width: 500px;
+} 
+5
